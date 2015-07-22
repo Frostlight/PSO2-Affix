@@ -2,7 +2,7 @@
 Simulator for PSO2 Affixing  
 
 Links:  
-https://htmlpreview.github.io/?https://github.com/Frostlight/PSO2-Affix/blob/master/index.html  
+http://frostlight.github.io/PSO2-Affix/  
 
 ---
 #### Credits
