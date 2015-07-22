@@ -220,7 +220,7 @@ PSO2JSON = {
 		{code: 'EB03', gid: 'A', name: 'Spirita III',       lvup: 'EB04', extend: [ 60,  80, 100], generate: [30, 50], status: 1, effect: 'PP(+4)'},
 		{code: 'EB04', gid: 'A', name: 'Spirita IV',        lvup: 'EB05', extend: [ 40,  60,  80], generate: [20, 40], status: 1, effect: 'PP(+5)'},
 		{code: 'EB05', gid: 'A', name: 'Spirita V',                       extend: [ 20,  40,  60], generate: [10, 30], status: 1, effect: 'PP(+6)'},
-		{code: 'EC01', gid: 'A', name: 'Spirita Alpha',                   extend: [ 30,  50,  60],                                effect: 'PP(+3),<br>DEX+30'},
+		{code: 'EC01', gid: 'A', name: 'Spirita Alpha',                   extend: [ 30,  50,  60],                                effect: 'PP(+3),<br>DEX(+30)'},
 		/* Ability (F) */
 		{code: 'FA01', gid: 'A+',name: 'Ability I',                       extend: [100, 100, 100],                                effect: 'ALL(+5)'},
 		{code: 'FA02', gid: 'A+',name: 'Ability II',                      extend: [ 20,  40,  60],                                effect: 'ALL(+10)'},
