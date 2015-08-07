@@ -273,7 +273,7 @@ PSO2JSON = {
 		{code: 'HN05', gid: 'B', name: 'Gloom Resist V',                  extend: [ 20,  40,  60], generate: [10, 30], status: 2, effect: 'Dark Resist(+7)'},
 		{code: 'HZ01', gid: 'B', name: 'All Resist I',                    extend: [ 30,  50,  70],                     status: 2, effect: 'All Resist(+1)'},
 		{code: 'HZ02', gid: 'B', name: 'All Resist II',                   extend: [ 20,  40,  60],                     status: 2, effect: 'All Resist(+2)'},
-		{code: 'HZ03', gid: 'B', name: 'All Resist II',                   extend: [ 10,  30,  50],                     status: 2, effect: 'All Resist(+3)'},
+		{code: 'HZ03', gid: 'B', name: 'All Resist III',                  extend: [ 10,  30,  50],                     status: 2, effect: 'All Resist(+3)'},
 		{code: 'HZ04', gid: 'B', name: 'All Resist IV',                                                                status: 2, effect: 'All Resist(+4)'},
 		{code: 'HZ05', gid: 'B', name: 'All Resist V',                                                                 status: 2, effect: 'All Resist(+5)'},
 		/* Abnormal Status Infliction (J) */
