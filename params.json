@@ -368,7 +368,7 @@ PSO2JSON = {
 		{code: 'RP25', gid: 'D', name: 'Anga Soul',                       extend: [  0,  50,  80], extup: ['TB'],                 effect: 'S-ATK(+20),<br>R-ATK(+20),<br>T-ATK(+20),<br>PP(+4)'},
 		{code: 'RPA5', gid: 'D', name: 'Magatsu Soul',                    extend: [  0,  50,  80], extup: ['EA', 'EB'],           effect: 'S-DEF(+15),<br>R-DEF(+15),<br>T-DEF(+15),<br>HP(+30),<br>PP(+3)'},
 		{code: 'RPB5', gid: 'D', name: 'Apprentice Soul',            	  extend: [  0,  50,  80], extup: ['TC'],                 effect: 'S-ATK(+40),<br>R-ATK(+40),<br>T-ATK(+40)'},
-		{code: 'RPC5', gid: 'D', name: 'Gryphon Soul',					  extend: [  0,  50,  80], extup: ['AA', 'AB', 'AC'],     effect: 'S-ATK(+15),<br>R-ATK(+15),<br>T-ATK(+15),<br>DEX(+15),<br>HP(+5),<br>PP(+3)'},
+		{code: 'RPC5', gid: 'D', name: 'Gryphon Soul',                    extend: [  0,  50,  80], extup: ['AA', 'AB', 'AC', 'HZ'],    effect: 'S-ATK(+15),<br>R-ATK(+15),<br>T-ATK(+15),<br>DEX(+15),<br>HP(+5),<br>PP(+3)'},
 		/* Special Affixes (T) */
 		{code: 'TA01', gid: 'A+',name: 'Stigma',                          extend: [-20,  30,  50], status: 4,                     effect: 'DEX(+20),<br>PP(+5)'},
 		{code: 'TB01', gid: 'A+',name: 'Vinculum',                        extend: [-20,  30,  50], status: 4,                     effect: 'S-ATK(+20),<br>R-ATK(+20),<br>T-ATK(+20)'},
