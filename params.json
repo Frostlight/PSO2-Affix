@@ -311,6 +311,7 @@ PSO2JSON = {
 		{code: 'OA01', gid: 'A+',name: 'Mutation I',                      extend: [  0,  50,  80],                                effect: 'S-ATK(+10),<br>R-ATK(+10),<br>T-ATK(+10),<br>HP(+10)'},
 		/* Striking Souls (RA) */
 		{code: 'RA11', gid: 'D', name: 'Gunne Soul',                      extend: [  0,  50,  80], extup: ['AA','BA','EA'],       effect: 'S-ATK(+15),<br>HP(+45)'},
+		{code: 'RA51', gid: 'D', name: 'Zigmorde Soul',                   extend: [  0,  50,  80], extup: ['AA','EB','JF'],       effect: 'S-ATK(+15),<br>PP(+4)'},
 		{code: 'RA20', gid: 'D', name: 'Vol Soul',                        extend: [  0,  50,  80], extup: ['AA','BA','EA','JA'],  effect: 'S-ATK(+30),<br>HP(+20)'},
 		{code: 'RA22', gid: 'D', name: 'Gwana Soul',                      extend: [  0,  50,  80], extup: ['AA','BA','JF'],       effect: 'S-ATK(+30),<br>HP(+10),<br>PP(+2)'},
 		{code: 'RA23', gid: 'D', name: 'Quartz Soul',                     extend: [  0,  50,  80], extup: ['AA','BA','EB','JE'],  effect: 'S-ATK(+30),<br>PP(+3)'},
@@ -318,6 +319,7 @@ PSO2JSON = {
 		{code: 'RA41', gid: 'D', name: 'Leone Soul',                      extend: [  0,  50,  80], extup: ['TA'],                 effect: 'S-ATK(+35),<br>DEX(+5),<br>HP(+20),<br>PP(+1)'},
 		/* Shooting Souls (RB) */
 		{code: 'RB11', gid: 'D', name: 'Madu Soul',                       extend: [  0,  50,  80], extup: ['AB','EB'],            effect: 'R-ATK(+15),<br>PP(+4)'},
+		{code: 'RB51', gid: 'D', name: 'Idetta Soul',                     extend: [  0,  50,  80], extup: ['AB','EA', 'HB'],      effect: 'R-ATK(+15),<br>HP(+45)'},
 		{code: 'RB21', gid: 'D', name: 'Ran\'sa Soul',                    extend: [  0,  50,  80], extup: ['AB','BB','EA','HM'],  effect: 'R-ATK(+30),<br>HP(+20)'},
 		{code: 'RB22', gid: 'D', name: 'Fang Soul',                       extend: [  0,  50,  80], extup: ['AB','BB','JC'],       effect: 'R-ATK(+30),<br>HP(+10),<br>PP(+2)'},
 		{code: 'RB23', gid: 'D', name: 'Mizer Soul',                      extend: [  0,  50,  80], extup: ['AB','BB','EB','HB'],  effect: 'R-ATK(+30),<br>PP(+3)'},
