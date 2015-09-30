@@ -311,7 +311,7 @@ PSO2JSON = {
 		{code: 'OA01', gid: 'A+',name: 'Mutation I',                      extend: [  0,  50,  80],                                effect: 'S-ATK(+10),<br>R-ATK(+10),<br>T-ATK(+10),<br>HP(+10)'},
 		/* Striking Souls (RA) */
 		{code: 'RA11', gid: 'D', name: 'Gunne Soul',                      extend: [  0,  50,  80], extup: ['AA','BA','EA'],       effect: 'S-ATK(+15),<br>HP(+45)'},
-		{code: 'RA51', gid: 'D', name: 'Zigmorde Soul',                   extend: [  0,  50,  80], extup: ['AA','EB','JF'],       effect: 'S-ATK(+15),<br>PP(+4)'},
+		{code: 'RA51', gid: 'D', name: 'Zigmor Soul',                     extend: [  0,  50,  80], extup: ['AA','EB','JF'],       effect: 'S-ATK(+15),<br>PP(+4)'},
 		{code: 'RA20', gid: 'D', name: 'Vol Soul',                        extend: [  0,  50,  80], extup: ['AA','BA','EA','JA'],  effect: 'S-ATK(+30),<br>HP(+20)'},
 		{code: 'RA22', gid: 'D', name: 'Gwana Soul',                      extend: [  0,  50,  80], extup: ['AA','BA','JF'],       effect: 'S-ATK(+30),<br>HP(+10),<br>PP(+2)'},
 		{code: 'RA23', gid: 'D', name: 'Quartz Soul',                     extend: [  0,  50,  80], extup: ['AA','BA','EB','JE'],  effect: 'S-ATK(+30),<br>PP(+3)'},
