@@ -386,7 +386,7 @@ PSO2JSON = {
 		{code: 'TD05', gid: 'D+',name: 'Saint Fever',                     extend: [100, 100, 100],                                effect: 'R-ATK(+10),<br>DEX(+5),<br>PP(+2)'},
 		{code: 'TD06', gid: 'D+',name: 'Latan Fever',                     extend: [100, 100, 100],                                effect: 'T-ATK(+10),<br>DEX(+5),<br>PP(+2)'},
 		{code: 'TD07', gid: 'D+',name: 'Summer Fever',                    extend: [100, 100, 100],                                effect: 'T-ATK(+10),<br>DEX(+5),<br>HP(+5),<br>PP(+1)'},
-		{code: 'TD08', gid: 'D+',name: 'Ceramo Fever',                    extend: [100, 100, 100],                                effect: 'S-ATK(+10),<br>DEX(+5),<br>HP(+5),<br>PP(+1)'},
+		{code: 'TD08', gid: 'D+',name: 'Ceremo Fever',                    extend: [100, 100, 100],                                effect: 'S-ATK(+10),<br>DEX(+5),<br>HP(+5),<br>PP(+1)'},
 		{code: 'TD09', gid: 'D+',name: 'Noiya Fever',                     extend: [100, 100, 100],                                effect: 'R-ATK(+10),<br>DEX(+5),<br>HP(+5),<br>PP(+1)'},
 		{code: 'TD10', gid: 'D+',name: 'Sakura Fever',                    extend: [100, 100, 100],                                effect: 'S-DEF(+10),<br>DEX(+5),<br>HP(+5),<br>PP(+1)'},
 		{code: 'TD11', gid: 'D+',name: 'Sonic Fever',                     extend: [100, 100, 100],                                effect: 'S-ATK(+10),<br>R-DEF(+10),<br>HP(+5),<br>PP(+1)'},
