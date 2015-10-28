@@ -14,7 +14,8 @@ PSO2JSON = {
 		{name: 'Ability Success Rate +5%',  sname: '+5%',      value: 'A02', fn: function(v){ return Math.min(v +  5, 100); }},
 		{name: 'Ability Success Rate +10%', sname: '+10%',     value: 'A03', fn: function(v){ return Math.min(v + 10, 100); }},
 		{name: 'Ability Success Rate +20%', sname: '+20%',     value: 'A04', fn: function(v){ return Math.min(v + 20, 100); }},
-		{name: 'Ability Success Rate +30%', sname: '+30%',     value: 'A05', fn: function(v){ return Math.min(v + 30, 100); }}
+		{name: 'Ability Success Rate +30%', sname: '+30%',     value: 'A05', fn: function(v){ return Math.min(v + 30, 100); }},
+		{name: 'Ability Success Rate +40%', sname: '+40%',     value: 'A06', fn: function(v){ return Math.min(v + 40, 100); }}
 	],
 	additional: [
 		{name: 'Nothing',             value: 'B01'},
