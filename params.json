@@ -339,7 +339,7 @@ PSO2JSON = {
 		{code: 'RE21', gid: 'D', name: 'Signo Soul',                      extend: [  0,  50,  80], extup: ['AD','EA','JD'],       effect: 'DEX(+30),<br>HP(+20),<br>PP(+1)'},
 		{code: 'RE22', gid: 'D', name: 'Chrome Soul',                     extend: [  0,  50,  80], extup: ['AD','EA','EB','JE'],  effect: 'DEX(+30),<br>HP(+10),<br>PP(+3)'},
 		{code: 'RE23', gid: 'D', name: 'Rappy Soul',                      extend: [  0,  50,  80], extup: ['AD','EB','HM'],       effect: 'DEX(+30),<br>PP(+4)'},
-		{code: 'RE31', gid: 'D', name: 'Snow Soul',                       extend: [  0,  50,  80], extup: ['AD','EA'],            effect: 'DEX(+30),<br>S-ATK(+5),<br>HP(+25),<br>PP(+2)'},
+		{code: 'RE31', gid: 'D', name: 'Sinow Soul',                       extend: [  0,  50,  80], extup: ['AD','EA'],            effect: 'DEX(+30),<br>S-ATK(+5),<br>HP(+25),<br>PP(+2)'},
 		/* Strike Defense Souls (RH) */
 		{code: 'RH21', gid: 'D', name: 'Snow Soul',                       extend: [  0,  50,  80], extup: ['AA','BA','EA','HJ'],  effect: 'S-DEF(+30),<br>HP(+20),<br>PP(+1)'},
 		{code: 'RH22', gid: 'D', name: 'Rockbear Soul',                   extend: [  0,  50,  80], extup: ['AA','BA','HA'],       effect: 'S-DEF(+30),<br>HP(+10),<br>PP(+3)'},
